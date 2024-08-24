@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Alkesh
-- 👀 I’m interested in now front-end
-- 🌱 I’m currently learning javascript and after react js
+- 👀 Now Building a product 
 - 💞️ I’m looking to collaborate to improve my skills
 
 ## 🌐 Socials:
